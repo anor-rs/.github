@@ -4,8 +4,8 @@
 
 ### Components
 
-- anor-storage (In-Memory Storage)
-- anor-storage-api (Socket API)
+- anor (In-Memory Data Storage)
+- anor-api (Socket API)
 - anor-client (Socket Client)
   - Rust
   - Go (Rust FFI)
