@@ -12,6 +12,7 @@
   - Python (Rust FFI)
 - anor-http (HTTP File Server)
 - anor-collections (Collections)
+- anor-cli (Command-line Interface)
 
 ## Project Stage
 
