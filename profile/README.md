@@ -1,10 +1,10 @@
 # Anor
 
-## Data Store
+## The open-source data storage platform
 
 ### Components
 
-- anor-storage (Storage)
+- anor-storage (In-Memory Storage)
 - anor-storage-api (Socket API)
 - anor-client (Socket Client)
   - Rust
