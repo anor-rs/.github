@@ -5,7 +5,7 @@
 ### Components
 
 - [anor](https://github.com/anor-rs/anor) (In-Memory Data Storage)
-- anor-api (Socket API)
+- anor-api (Storage Socket API)
 - anor-client (Socket Client)
   - Rust
   - Go (Rust FFI)
