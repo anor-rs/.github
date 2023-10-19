@@ -1,2 +1,2 @@
-# .github
+# Anor
 Anor Data Platform
