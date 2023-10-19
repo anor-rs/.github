@@ -1,6 +1,6 @@
 # Anor
 
-## Data Storage
+## Data Store
 
 ### Components
 
