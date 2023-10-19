@@ -2,8 +2,6 @@
 
 ## The open-source data storage platform
 
-<img src="docs/img/anor-wb.svg" width=25%>
-
 ### Components
 
 - anor-storage (In-Memory Storage)
@@ -17,4 +15,4 @@
 
 ## Project Stage
 
-**Research:** this project is at the design stage, with some sketches of work but nothing usable yet.
+**Research:** This project is at the design stage, with some sketches of work but nothing usable yet.
