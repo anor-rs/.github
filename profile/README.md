@@ -6,7 +6,7 @@
 
 - [anor](https://github.com/anor-rs/anor) (In-Memory Data Storage)
 - anor-api (Storage Socket API)
-- anor-client (Socket Client)
+- anor-client (Storage Socket Client)
   - Rust
   - Go (Rust FFI)
   - Python (Rust FFI)
