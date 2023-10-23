@@ -1,6 +1,6 @@
 # Anor
 
-## The open-source data storage platform
+## The open-source data access and storage platform
 
 ### Components
 
