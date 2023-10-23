@@ -1,2 +1,0 @@
-# Anor
-Anor Data Platform
