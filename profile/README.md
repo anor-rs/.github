@@ -5,12 +5,13 @@
 ### Components
 
 - [anor](https://github.com/anor-rs/anor) (under development)
-- anor-client (Storage Client)
+- anor-client (nor started yet)
   - Rust
   - Go (Rust FFI)
+  - Ruby (Rust FFI)
   - Python (Rust FFI)
-- anor-collections (Collections)
-- anor-cli (Command-line Interface)
+- anor-collections (Distributed remote collections / not started yet)
+- anor-cli (Command-line Interface / not started yet)
 
 ## Project Stage
 
