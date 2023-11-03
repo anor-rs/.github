@@ -5,7 +5,7 @@
 ### Components
 
 - [anor](https://github.com/anor-rs/anor) (under development)
-- anor-client (nor started yet)
+- anor-client (not started yet)
   - Rust
   - Go (Rust FFI)
   - Ruby (Rust FFI)
